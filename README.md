@@ -1,15 +1,19 @@
 ✨ Here I keep things that are useful for me or might be helpful for others :)
 
-## 🔭 I’m currently doing
+---
+
+#### 🔭 I’m currently doing
 - casually participating in [Advent of code 2022](https://adventofcode.com/2022/)
 - implementing new features to [Cryptic on paper](https://ny1am.github.io/cryptic-on-paper/)
 
-## 🌱 I’m currently learning
+---
+
+#### 🌱 I’m currently learning
 - transducers and rx.js
 - algorithms course on [frontend masters](https://frontendmasters.com/courses/algorithms/)
 - waiting for the new episode of [Type-Level Typescript](https://type-level-typescript.com/)
 
-## 📚 My favorite frontend sources
+#### 📚 My favorite frontend sources
 [Smashing magazine](https://www.smashingmagazine.com/), 
 [Frontend mastery](https://frontendmastery.com/), 
 [TkDodo's blog](https://tkdodo.eu/blog/), 
