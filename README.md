@@ -1,4 +1,4 @@
-✨ Here I keep things that are useful for me or might be helpful for others :)
+✨ Here I keep things used by me or might be helpful to others :)
 
 ---
 
