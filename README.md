@@ -1,6 +1,6 @@
 ✨ Here I keep things used by me or might be helpful to others ✨
 
-# atm
+## What am I doing at the moment?
 
 🎄 casually participating in **[Advent of code 2022](https://adventofcode.com/2022/)**
 
